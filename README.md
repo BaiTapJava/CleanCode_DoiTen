@@ -1,1 +1,1 @@
-Simple Refactoring exercise used at [CodeGym](https://codegym.vn)
+Doi Ten Trong Clean Code
